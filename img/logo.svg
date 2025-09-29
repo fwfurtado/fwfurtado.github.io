@@ -1,0 +1,12 @@
+<svg viewBox="0 0 220 90" xmlns="http://www.w3.org/2000/svg">
+  <!-- Caixa do terminal -->
+  <rect x="0" y="0" width="220" height="90" fill="#1e293b" rx="4"/>
+
+  <!-- Botões do terminal (vermelho, amarelo, verde) -->
+  <circle cx="15" cy="15" r="4" fill="#ef4444"/>
+  <circle cx="30" cy="15" r="4" fill="#f59e0b"/>
+  <circle cx="45" cy="15" r="4" fill="#22c55e"/>
+
+  <!-- Texto do logo: $ m!mi -->
+  <text x="20" y="60" font-family="'Courier New', monospace" font-size="36" fill="#22c55e" font-weight="normal">$ m!mi</text>
+</svg>
