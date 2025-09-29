@@ -9,7 +9,7 @@ base_url = "https://fwfurtado.github.io"
 #=========================================================================================
 
 title = "Mimi"
-description = "Mimi description"
+description = "Mimi homepage"
 default_language = "pt-BR"
 theme = "serene"
 output_dir = "public"
