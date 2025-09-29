@@ -9,7 +9,7 @@ footer = false
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Mimi (a.k.a. Fernando Furtado)"
 id = "fwfurtado"
-bio = "Desenvolvedor, Motociclista, Músico e último mas não menos importante, pai."
+bio = "Desenvolvedor, Motociclista, Pseudo músico frustrado."
 avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/fwfurtado" },
@@ -27,10 +27,10 @@ date_format = "%b %-d, %Y"
 
 ![](img/logo.svg)
 
-Ola, eu sou o Mimi, também conhecido ~(mas não muito)~ como Fernando Furtado!
+Olá, eu sou o Mimi, também conhecido ~(mas não muito)~ como Fernando Furtado!
 
-Eu programo desde a adolescência, e com 17 anos de experiência profissional, tive o privilégio de trabalhar com algumas empresas incríveis como Alura, Zé Delivery, Loft e Nubank. Atualmente, sou Staff Engineer no will bank, onde enfrento desafios técnicos complexos e ajudo a moldar o futuro do fintech.
+Eu programo desde a adolescência, e com 17 anos de experiência profissional, tive o privilégio de trabalhar com algumas empresas incríveis como Alura, Zé Delivery, Loft, Nubank, Flutter Brasil (antiga NSX Group). Atualmente, sou Staff Engineer no will bank, onde enfrento desafios técnicos complexos e ajudo a moldar o futuro do fintech.
 
-Quando não estou programando, você me encontra pilotando minha moto pelas ruas de São Paulo, tocando violão, ou passando tempo de qualidade com meu filho. Sou um eterno aprendiz que adora explorar novos tópicos. Desde tecnologia até habilidades completamente aleatórias como chaveiro, mágico e afins.
+Quando não estou programando, você me encontra pilotando minha moto pelas ruas de São Paulo, tocando violão, ou passando tempo de qualidade com a minha família. Sou um eterno aprendiz que adora explorar novos tópicos. Desde tecnologia até habilidades completamente aleatórias como chaveiro, mágico e afins.
 
 Ou seja, em um apocalipse zumbi, eu ainda teria alguma utilidade para a humanidade. Eu acho!
