@@ -92,7 +92,3 @@ cd ../..
 git add themes/serene
 git commit -m "Update serene theme"
 ```
-
----
-
-**Construído com ❤️ usando Zola e hospedado no GitHub Pages**
