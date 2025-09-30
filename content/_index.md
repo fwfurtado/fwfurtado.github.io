@@ -33,4 +33,4 @@ Eu programo desde a adolescência, e com 17 anos de experiência profissional, t
 
 Quando não estou programando, você me encontra pilotando minha moto pelas ruas de São Paulo, tocando violão, ou passando tempo de qualidade com a minha família. Sou um eterno aprendiz que adora explorar novos tópicos. Desde tecnologia até habilidades completamente aleatórias como chaveiro, mágico e afins.
 
-Ou seja, em um apocalipse zumbi, ~se pah~ eu ainda teria alguma utilidade para a humanidade.
+Ou seja, ~se pah~ em um apocalipse zumbi, eu ainda teria alguma utilidade para a humanidade.
